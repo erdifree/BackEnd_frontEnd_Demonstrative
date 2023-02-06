@@ -1,13 +1,13 @@
-package erdison.dosti;
+package Erdison.Dosti.Review;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class ReviewApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(ReviewApplication.class, args);
 	}
 
 }

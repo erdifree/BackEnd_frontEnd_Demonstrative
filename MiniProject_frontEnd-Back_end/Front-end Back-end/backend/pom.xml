@@ -6,13 +6,13 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.0.2</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/> <!-- lookup parent from Breed -->
 	</parent>
-	<groupId>armando.macchiarulo</groupId>
-	<artifactId>midterm-review</artifactId>
+	<groupId>Erdison.Dosti</groupId>
+	<artifactId>Review</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>midterm-review</name>
-	<description>midterm-review</description>
+	<name>Review</name>
+	<description>Review for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
