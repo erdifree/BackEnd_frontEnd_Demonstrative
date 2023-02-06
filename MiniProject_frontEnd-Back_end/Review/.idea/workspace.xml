@@ -5,24 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d527f88-ade0-4ce5-a00a-fc9c7fdc5cff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Erdison/Dosti/Review/Repository/BreedRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Erdison/Dosti/Review/ReviewApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Erdison/Dosti/Review/controller/BreedController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Erdison/Dosti/Review/entiry/Breed.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Erdison/Dosti/Review/ReviewApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front-end Back-end/JavaAndSpring/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Front-end Back-end/JavaAndSpring/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front-end Back-end/JavaAndSpring/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../Front-end Back-end/JavaAndSpring/SQLSCRIPT/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,20 +47,23 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="2Ku3ZW2deoNHtURoPc87KwFcwft" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/erdi_/IdeaProjects"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/erdi_/IdeaProjects&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\erdi_\Desktop\Review\src\main\resources" />
